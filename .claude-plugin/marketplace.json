@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "linkedin-agent-skill",
+  "description": "The LinkedIn agent skill pack for Claude",
+  "plugins": [
+    {
+      "name": "linkedin-agent",
+      "description": "Seventeen Claude skills and two agents that run a LinkedIn account, including an analytics audit that reads LinkedIn's export, a carousel PDF builder, a voice profiler, a humanizer and a one-command pre-flight.",
+      "source": "./",
+      "category": "productivity",
+      "version": "2.1.0"
+    }
+  ],
+  "owner": {
+    "name": "gladosAagman",
+    "url": "https://github.com/gladosAagman"
+  }
+}

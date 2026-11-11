@@ -1,0 +1,25 @@
+{
+  "name": "linkedin-agent",
+  "description": "Seventeen Claude skills and two agents that run a LinkedIn account: posts off 21 hook formulas with a counter that draws the 'see more' fold, comments, replies, profile score, weekly plan exported to your calendar, DMs, inbox triage, carousels built to PDF, repurposing, an analytics audit that reads LinkedIn's own export, newsletters, a job-search playbook, a voice profiler, an engagement ledger, a humanizer, a one-command pre-flight, and opt-in publishing through LinkedIn's official API.",
+  "version": "2.1.0",
+  "keywords": [
+    "linkedin",
+    "content",
+    "writing",
+    "humanizer",
+    "social",
+    "marketing",
+    "carousel",
+    "analytics",
+    "job-search",
+    "claude-code",
+    "agent-skills"
+  ],
+  "author": {
+    "name": "gladosAagman",
+    "url": "https://github.com/gladosAagman"
+  },
+  "homepage": "https://github.com/gladosAagman/linkedin-agent-skill",
+  "repository": "https://github.com/gladosAagman/linkedin-agent-skill",
+  "license": "MIT"
+}
